@@ -1,11 +1,11 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @X-TECH
+//Instagram: xtechcorporation1
+//Telegram: t.me/xtechcorpotation1
+//GitHub: @X-TECH
+//WhatsApp: +2250500107362
+//want more free bot scripts? subscribe to my youtube channel: https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: X-TECH" //ur yt chanel name
+global.socialm = "GitHub: X-TECH" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.ownernumber = '2250141253296' //ur owner number
+global.ownername = 'X-TECH' //ur owner name
+global.websitex = "https://youtu.be/X-TECH"
+global.wagc = "https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.wm = "X-TECH Bot Inc."
+global.botscript = 'https://github.com/Joker15-tech/CheemsBot-MD11/' //script link
+global.packname = "X-TECH"
+global.author = "X-TECH\n\n+2250500107362"
+global.creator = "2250500107362@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["22505001073652"] // Premium User
 global.hituet = 0
 
 //bot sett
